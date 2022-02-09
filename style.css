@@ -9,7 +9,10 @@ p, h1 {
     font-family: Verdana, Tahoma, sans-serif;
     color:rgb(247, 247, 247)
 }
-
+.riquadro  {
+    height: 200px;
+    width: 200px;
+}
 body {
     background-color: rgb(31, 31, 31);
 }
@@ -275,4 +278,19 @@ li {
 
    .option {
        margin-left: 10em;
+   }
+
+   .NFTprice1 {
+    font-Size:15px; 
+    color:white; 
+    padding-Left:20px; 
+    text-Align:left; 
+    margin-Top:5px;
+   }
+
+   .NFTimage1 {
+    width:80%; 
+    border: 1px solid #050505; 
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
    }
